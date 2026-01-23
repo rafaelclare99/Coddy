@@ -53,6 +53,18 @@ se op for '-', defina result com n1 - n2.
 se op for '/', defina result com n1 / n2.
 se op for '*', defina result com n1 * n2.
 
+Desafio 6 :
+Crie um programa que verifica se alguém pode andar em uma montanha-russa. Os requisitos são:
 
+Deve ter pelo menos 12 anos
+Deve ser mais alto que 150cm
+Se eles atenderem a ambos os requisitos, mas tiverem menos de 15 anos, precisam de supervisão de adulto
+Defina a variável status exatamente para estas strings em cada caso:
+
+Se muito jovem: Sorry, you're too young
+Se não alto o suficiente: Sorry, you're not tall enough
+Se menor de 15 e sem adulto: Sorry, you need an adult with you
+Se menor de 15 com adulto: You can ride with adult supervision!
+Se 15 ou mais velho e alto o suficiente: You can ride by yourself!
 
 
