@@ -8,3 +8,13 @@ Desafio 2 :
 Você recebe um código que armazena uma string aleatória como entrada em uma variável chamada rnd.
 
 Imprima no console "The input is: " e a string aleatória que está dentro da variável rnd, usando interpolação de string.
+
+Desafio 3 : 
+Escreva um programa que obtém entrada do usuário (o nome dele) e depois exibe Hello,  seguido pelo nome inserido pelo usuário.
+
+Por exemplo, se o usuário digitar Bob, a saída esperada é Hello, Bob.
+
+Você precisará:
+
+Ler o nome do usuário usando o método apropriado de Console.
+Imprimir Hello,e a variável armazenada no final.
