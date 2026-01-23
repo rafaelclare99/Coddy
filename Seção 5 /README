@@ -10,3 +10,11 @@ Desafio 3:
 Você precisa atribuir valores inteiros às variáveis b1 e b2 para que b3 avalie para verdadeiro na expressão: b3 = !((b1 + b2) > (b1 * b2)).
 
 
+Desafio 4: 
+Dado o seguinte trecho de código, sua tarefa é atribuir valores booleanos (true ou false) às variáveis b1, b2 e b3 para que b4 seja avaliado como true.
+
+A variável b4 é calculada usando a seguinte lógica:
+
+Realiza uma operação AND (&&) entre b1, b2 e o NOT de b3
+Para b4 ser true, todas as partes da operação AND devem ser true
+
