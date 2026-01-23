@@ -1,0 +1,4 @@
+Escreva um programa C# que declara e inicializa as seguintes variáveis:
+
+Declare uma variável int chamada quantity e inicialize-a com o valor 5.
+Declare uma variável double chamada itemPrice e inicialize-a com o valor 24.99.
