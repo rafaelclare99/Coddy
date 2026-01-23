@@ -1,0 +1,14 @@
+using System;
+
+public class Program {
+    public static void Main(string[] args) {
+        // Declare and initialize variables
+        double price = 99.99;
+        int intPrice = (int)price; // Explicit casting from double to int
+
+        
+        // Output the values
+        Console.WriteLine("Price: " + price);
+        Console.WriteLine("Int Price: " + intPrice);
+    }
+}
