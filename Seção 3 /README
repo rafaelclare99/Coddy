@@ -11,3 +11,10 @@ Escreva um programa que declara e inicializa as seguintes constantes:
 
 Uma constante chamada MAX_QUANTITY com o valor 50.
 Uma constante chamada COMPANY_NAME com o valor "Coddy Inc.".
+
+Desafio 3 : 
+Escreva código que inicializa as seguintes variáveis:
+
+k com o valor 88
+PI com o valor 3.14
+name com o valor "bob"
