@@ -18,3 +18,10 @@ Escreva código que inicializa as seguintes variáveis:
 k com o valor 88
 PI com o valor 3.14
 name com o valor "bob"
+
+Desafio 4 : 
+Escreva um programa em C# que demonstre o casting de tipos. Realize as seguintes operações:
+
+Declare uma variável double chamada price e inicialize-a com o valor 99.99.
+Faça o cast da variável price para um int e armazene o resultado em uma nova variável chamada intPrice.
+Imprima os valores de price e intPrice no console.
