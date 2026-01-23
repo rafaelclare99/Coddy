@@ -14,3 +14,12 @@ f (double) que conterá o resultado de b módulo 1.5
 g (double) que conterá o resultado de b módulo 3.9
 h (int) que conterá o resultado de c módulo 10
 Verifique o resultado e veja como diferentes dividendos e divisores afetam o resultado.
+
+Desafio 3 : 
+Você recebe um código com a inicialização de count. (Não apague esta linha!)
+
+Sua tarefa é adicionar as seguintes operações, nesta ordem:
+
+Use o operador de incremento (++) quatro vezes para adicionar 4 a count
+Use o operador de multiplicação (*) para multiplicar count por 2
+Use o operador de decremento (--) uma vez para subtrair 1 de count
