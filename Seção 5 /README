@@ -5,3 +5,8 @@ Depois disso, inicialize outra variável n3 que conterá se n1 é maior que n2.
 
 Desafio 2 : 
 Você é fornecido com um código. Substitua os pontos de interrogação das variáveis b1 e b2 para que b3 contenha true.
+
+Desafio 3:
+Você precisa atribuir valores inteiros às variáveis b1 e b2 para que b3 avalie para verdadeiro na expressão: b3 = !((b1 + b2) > (b1 * b2)).
+
+
