@@ -26,3 +26,10 @@ Leia o primeiro número como uma string.
 Leia o segundo número como uma string.
 Use int.Parse() para converter os números para inteiros.
 Imprima a soma dos dois números.
+
+Desafio 5:
+Escreva um programa que recebe a idade do usuário como entrada.
+
+O programa deve imprimir o número de anos faltantes years till 120 (em um formato específico, mostrado abaixo).
+
+Por exemplo, para entrada 25, a saída esperada é "95 years till 120".
