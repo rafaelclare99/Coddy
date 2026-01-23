@@ -4,3 +4,17 @@ Você recebe um código.
 As variáveis a e b possuem valores ausentes, preencha-os para que o código dentro da declaração if seja executado e c seja igual a 3.
 
 Bônus: tente encontrar mais de uma solução!
+
+Desafio 2 : 
+Você recebe um código que obtém como entrada um número que indica a velocidade do vento e o armazena em uma variável chamada wind.
+
+Nota: aprenderemos nas próximas lições como obter entrada do usuário, atualmente apenas não toque na primeira linha.
+
+ 
+
+Sua tarefa é inicializar a variável status com base nas condições:
+
+"Calm" se wind for menor que 8,
+"Breeze" se wind estiver entre 8 e 31 (incluindo 8 e 31).
+"Gale" se wind estiver entre 32 e 63 (incluindo 32 e 63)
+"Storm" caso contrário
