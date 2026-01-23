@@ -13,3 +13,12 @@ Armazene a string I am learning to code with Coddy! em uma variável chamada cod
 
 Desafio 4 :
 Declare uma variável chamada isLoggedIn e atribua a ela o valor true.
+
+Desafio 5 : 
+Declare as seguintes variáveis com seus tipos e valores correspondentes:
+
+Uma variável int chamada count com o valor 10.
+Uma variável double chamada total com o valor 150.75.
+Uma variável char chamada grade com o valor 'A'.
+Uma variável bool chamada isActive com o valor false.
+Uma variável string chamada userName com o valor "Bob123".
