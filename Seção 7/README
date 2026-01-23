@@ -18,3 +18,11 @@ Você precisará:
 
 Ler o nome do usuário usando o método apropriado de Console.
 Imprimir Hello,e a variável armazenada no final.
+
+Desafio 4 :
+Escreva um programa em C# que leia dois números do console como strings, converta-os para inteiros usando Parse, e depois imprima a soma dos números. O programa deve fazer o seguinte:
+
+Leia o primeiro número como uma string.
+Leia o segundo número como uma string.
+Use int.Parse() para converter os números para inteiros.
+Imprima a soma dos dois números.
