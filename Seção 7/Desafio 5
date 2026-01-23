@@ -1,0 +1,15 @@
+using System;
+
+public class Program {
+    public static void Main(string[] args) {
+        // Write your code below
+        string idade = Console.ReadLine();
+
+        int conversao = int.Parse(idade);
+
+        int falta = 120 - conversao;
+
+        Console.WriteLine(falta + " years till 120");
+
+    }
+}
