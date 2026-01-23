@@ -8,5 +8,8 @@ Declare uma variável double chamada itemPrice e inicialize-a com o valor 24.99.
 Desafio 2 : 
 Armazene o char B em uma variável chamada initial.
 
-Desafio 3:
+Desafio 3 :
 Armazene a string I am learning to code with Coddy! em uma variável chamada coddy.
+
+Desafio 4 :
+Declare uma variável chamada isLoggedIn e atribua a ela o valor true.
