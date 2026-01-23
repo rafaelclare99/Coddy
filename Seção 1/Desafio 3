@@ -1,13 +1,7 @@
-public class Program {
-    public static void Main(string[] args) {
-        // This is a single-line comment
-        Console.WriteLine("Hello, Coddy!"); // This comment explains the purpose of this line
+using System;
 
-        /*
-           This is a multi-line comment.
-           It can span multiple lines.
-           All of this is ignored by the compiler.
-        */
-        Console.WriteLine("Comments are useful for documentation.");
-    }
+public class Program {
+	public static void Main(string[] args) {
+		Console.WriteLine("This is my first C# program!");
+	}
 }
