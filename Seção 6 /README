@@ -29,3 +29,12 @@ Spring: março (3), abril (4), maio (5)
 Summer: junho (6), julho (7), agosto (8)
 Autumn: setembro (9), outubro (10), novembro (11)
 
+Desafio 4: 
+Crie um programa que verifica se um número é positivo, negativo ou zero usando o operador ternário. O programa deve:
+
+Receber uma entrada de inteiro do usuário.
+Usar o operador ternário para determinar se o número é positivo, negativo ou zero. Salve a string positive, negative ou zero em result.
+Imprima o resultado no formato: "The number is [positive/negative/zero]".
+Você nested ternary para resolver este problema.
+
+
