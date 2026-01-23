@@ -1,0 +1,7 @@
+Desafio 1 :
+Escreva um programa em C# que declara e inicializa as seguintes variáveis usando var:
+
+Uma variável chamada quantity com o valor 5.
+Uma variável chamada itemPrice com o valor 24.99.
+Uma variável chamada productName com o valor "Laptop".
+Uma variável chamada isAvailable com o valor true.
