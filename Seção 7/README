@@ -3,3 +3,8 @@ Escreva um programa em C# que usa Console.WriteLine para exibir o seguinte:
 
 Imprima "Hello, Coddy!" em uma nova linha.
 Imprima "C# is fun!" em uma nova linha.
+
+Desafio 2 : 
+Você recebe um código que armazena uma string aleatória como entrada em uma variável chamada rnd.
+
+Imprima no console "The input is: " e a string aleatória que está dentro da variável rnd, usando interpolação de string.
