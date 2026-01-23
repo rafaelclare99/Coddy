@@ -1,0 +1,13 @@
+using System;
+
+public class Program {
+    public static void Main(string[] args) {
+        int k = 88;
+        double PI = 3.14;
+        string name = "bob";
+        
+        Console.WriteLine("k = " + k);
+        Console.WriteLine("PI = " + PI);
+        Console.WriteLine("name = " + name);
+    }
+}
