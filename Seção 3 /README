@@ -5,3 +5,9 @@ Uma variável chamada quantity com o valor 5.
 Uma variável chamada itemPrice com o valor 24.99.
 Uma variável chamada productName com o valor "Laptop".
 Uma variável chamada isAvailable com o valor true.
+
+Desafio 2 : 
+Escreva um programa que declara e inicializa as seguintes constantes:
+
+Uma constante chamada MAX_QUANTITY com o valor 50.
+Uma constante chamada COMPANY_NAME com o valor "Coddy Inc.".
