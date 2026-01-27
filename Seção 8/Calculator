@@ -7,12 +7,19 @@ public class Program {
 
         double num1 = double.Parse(Console.ReadLine());
         double num2 = double.Parse(Console.ReadLine());
-
         
-        Console.WriteLine(num1);
-        Console.WriteLine(num2);
+       
 
+        var sum = num1 + num2;
+        var difference = num1 - num2;
+        var product =  num1 * num2;
+        var quotient =  num1 / num2;
 
+         Console.WriteLine("Sum: " + sum);
+         Console.WriteLine("Difference: " + difference);
+         Console.WriteLine("Product: " + product);
+         Console.WriteLine("Quotient: " + quotient);
+   
 
     }
 }
