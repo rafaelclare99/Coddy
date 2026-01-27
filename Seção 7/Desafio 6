@@ -1,0 +1,15 @@
+using System;
+
+public class Program {
+    public static void Main(string[] args) {
+        // Write your code below
+        string a = Console.ReadLine();
+
+        if(a.Equals("1")){
+            Console.WriteLine("T");
+        }else{
+            Console.Write("F");
+        }
+
+    }
+}
