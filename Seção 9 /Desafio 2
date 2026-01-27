@@ -1,0 +1,15 @@
+using System;
+
+public class Program {
+    public static void Main(string[] args) {
+        // Write your code below
+        double numero = double.Parse(Console.ReadLine());
+
+        while (numero >= 3.5)
+        {
+            numero /= 2;
+        }
+
+        Console.WriteLine(numero);
+    }
+}
