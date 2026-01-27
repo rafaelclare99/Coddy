@@ -2,9 +2,8 @@ Desafio 1 :
 Escreva um programa que imprima "Hello Coddy: " e o valor de i de 3 a 27 (incluindo, o que significa imprimir os números 3, 4, 5, ..., 26, 27, totalizando 27 - 3 + 1 = 25 vezes no total), faça isso usando um laço for.
 
 Desafio 2 : 
-Um while loop é diferente do for loop. Um for loop permite iterar sobre um range específico, enquanto um while loop permite continuar iterando enquanto uma determinada condição for atendida.
+Escreva um programa que recebe uma entrada, double número.
 
-Para usar um while loop, escreva:
-while (condition) {
-    code
-}
+Use um laço while para dividir a entrada por 2 enquanto o número for maior ou igual a 3.5.
+
+Imprima o primeiro número que for menor que 3.5.
