@@ -19,3 +19,8 @@ Sum: [sum]
 Difference: [difference]
 Product: [product]
 Quotient: [quotient]
+
+Desafio 4 : 
+Modifique a saída para que ela sempre imprima um valor double com duas casas decimais.
+
+Em C#, você pode usar Console.WriteLine com interpolação de string ou string.Format para alcançar esse formatamento.
