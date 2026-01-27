@@ -33,3 +33,10 @@ Escreva um programa que recebe a idade do usuário como entrada.
 O programa deve imprimir o número de anos faltantes years till 120 (em um formato específico, mostrado abaixo).
 
 Por exemplo, para entrada 25, a saída esperada é "95 years till 120".
+
+Desafio 6:
+Escreva um programa que recebe uma entrada do usuário.
+
+O programa imprimirá "T" se a entrada for igual a 1 e "F" caso contrário.
+
+
