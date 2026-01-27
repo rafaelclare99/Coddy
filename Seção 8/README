@@ -10,3 +10,12 @@ Adicione ao código para obter dois números do usuário e armazená-los em vari
 Para ler múltiplas entradas, use:
 double num1 = double.Parse(Console.ReadLine());
 double num2 = double.Parse(Console.ReadLine());
+
+Desafio 3 : 
+Adicione as operações aritméticas básicas (adição, subtração, multiplicação e divisão) em num1 e num2. Armazene os resultados em variáveis nomeadas sum, difference, product e quotient, respectivamente.
+
+Imprima os resultados no seguinte formato:
+Sum: [sum]
+Difference: [difference]
+Product: [product]
+Quotient: [quotient]
