@@ -5,3 +5,8 @@ Todo bom programa começa com uma mensagem de boas-vindas. Exiba na tela a segui
 Calculator App
 
 Desafio 2 :
+Adicione ao código para obter dois números do usuário e armazená-los em variáveis chamadas num1 e num2 (do tipo double). Após obter os números, imprima-os.
+
+Para ler múltiplas entradas, use:
+double num1 = double.Parse(Console.ReadLine());
+double num2 = double.Parse(Console.ReadLine());
