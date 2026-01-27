@@ -15,10 +15,10 @@ public class Program {
         var product =  num1 * num2;
         var quotient =  num1 / num2;
 
-         Console.WriteLine("Sum: " + sum);
-         Console.WriteLine("Difference: " + difference);
-         Console.WriteLine("Product: " + product);
-         Console.WriteLine("Quotient: " + quotient);
+         Console.WriteLine(string.Format("Sum: {0:F2}", sum)); 
+         Console.WriteLine(string.Format("Difference: {0:F2}" , difference));
+         Console.WriteLine(string.Format("Product: {0:F2}" , product));
+         Console.WriteLine(string.Format("Quotient: {0:F2}" , quotient));
    
 
     }
