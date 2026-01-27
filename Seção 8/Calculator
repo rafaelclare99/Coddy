@@ -4,8 +4,13 @@ public class Program {
     public static void Main(string[] args) {
         
         Console.WriteLine("Calculator App");
-       
 
+        double num1 = double.Parse(Console.ReadLine());
+        double num2 = double.Parse(Console.ReadLine());
+
+        
+        Console.WriteLine(num1);
+        Console.WriteLine(num2);
 
 
 
