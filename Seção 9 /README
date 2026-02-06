@@ -20,3 +20,8 @@ Sum is: [The sum value]
 Num is: [The number value]
 Continue o loop enquanto number for menor ou igual a 50.
 Imprima o valor final de sum após o loop terminar: Final Sum: [The final sum value]
+
+Desafio 4 :
+Você recebe um código que imprime os números de 1 a 20 (incluindo).
+
+Sua tarefa é adicionar instruções if e break para que apenas os números de 1 a 15 sejam impressos, o loop sairá antes de imprimir os números de 16 a 20.
