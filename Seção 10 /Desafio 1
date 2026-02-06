@@ -1,1 +1,23 @@
 
+using System;
+
+public class Program {
+    // Method declaration
+    public static void SumNumbers() {
+        // Complete Method
+         int soma = 0;
+        for(int num = 1;num <= 1000; num++){
+          soma = num + soma;
+
+        }
+        Console.WriteLine(soma);
+    }
+    
+    
+    public static void Main(string[] args) {
+        int n = int.Parse(Console.ReadLine());
+        for (int i = 0; i < n; i++) {
+          SumNumbers();
+        }
+    }
+}
