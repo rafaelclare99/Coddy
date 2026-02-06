@@ -1,1 +1,22 @@
 
+using System;
+
+public class Program {
+    // Method declaration
+     public static void mult(int a , int b){
+            int num = a * b;
+            Console.WriteLine(num);
+        }
+        
+    
+    public static void Main(string[] args) {
+        int a = int.Parse(Console.ReadLine());
+        int b = int.Parse(Console.ReadLine());
+        // Call the method with a and b as arguments
+        mult(a,b);
+    }
+
+       
+    
+}
+
