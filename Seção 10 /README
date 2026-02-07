@@ -39,3 +39,14 @@ Aqui está um exemplo de como o método será chamado:
 
 DisplayMessage("Hello!"); // Prints "Hello!" once
 DisplayMessage("Coddy", 3); // Prints "Coddy" three 
+
+Desafio 5: 
+Escreva um método chamado is_valid que recebe dois argumentos string, username e password.
+
+O método retornará True se o username e o password forem válidos no sistema, caso contrário False.
+
+Nosso sistema contém apenas dois nomes de usuário válidos - "admin" e "user".
+
+A senha válida para o nome de usuário "user" é "qweasd".
+
+Para o nome de usuário "admin", qualquer senha é válida
