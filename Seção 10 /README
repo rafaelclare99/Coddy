@@ -27,3 +27,15 @@ Divida essa variável original por 2 e atualize-a
 Exemplo: Se num1 for maior, então faça: num1 = num1 / 2
 Imprima o valor recém-atualizado
 Pare o loop cedo se qualquer num1 ou num2 se tornar menor que 2.
+
+Desafio 4 : 
+Crie um método chamado DisplayMessage que recebe dois parâmetros:
+
+Um parâmetro string obrigatório chamado message.
+Um parâmetro inteiro opcional chamado repeatCount com um valor padrão de 1.
+O método deve imprimir o message no console repeatCount vezes. Se repeatCount não for fornecido ao chamar o método, ele deve usar o valor padrão de 1.
+
+Aqui está um exemplo de como o método será chamado:
+
+DisplayMessage("Hello!"); // Prints "Hello!" once
+DisplayMessage("Coddy", 3); // Prints "Coddy" three 
