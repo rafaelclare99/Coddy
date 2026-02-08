@@ -50,3 +50,15 @@ Nosso sistema contém apenas dois nomes de usuário válidos - "admin" e "user".
 A senha válida para o nome de usuário "user" é "qweasd".
 
 Para o nome de usuário "admin", qualquer senha é válida
+
+Desafio 6: 
+Crie um método void chamado PrintNTimes. Este método deve receber dois argumentos:
+
+Uma string message.
+Um inteiro n.
+O método deve imprimir a message no console n vezes. Use um laço for para repetir a impressão.
+
+No método Main, chame PrintNTimes com as entradas message e a entrada n
+
+
+
