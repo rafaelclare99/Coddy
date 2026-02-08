@@ -1,4 +1,13 @@
 Desafio 1 : 
 Crie um array chamado shoppingList que contenha os seguintes itens: bread, eggs, milk e butter.
 
+Desafio 2 :
+Crie um método chamado Values que recebe um array como argumento e imprime todos os itens do array um após o outro.
+
+Para iterar sobre um array
+Dessa forma, i iterará de 0 até numbers.Length (não incluindo), o que é exatamente todos os índices do array.
+
+
+
+
 
